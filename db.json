@@ -1,0 +1,24 @@
+{
+    "tasks":[
+        {
+            "desc" : "Read Springboot",
+            "isCompleted" : false
+        },
+        {
+            "desc" : "Complete Assignments",
+            "isCompleted" : false
+        },
+        {
+            "desc" : "Prepare Breakfast",
+            "isCompleted" : false
+        },
+        {
+            "desc" : "Sleep for 2 hours",
+            "isCompleted" : false
+        },
+        {
+            "desc" : "Take a Shower",
+            "isCompleted" : false
+        }
+    ]
+}
